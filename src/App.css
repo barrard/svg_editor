@@ -1,0 +1,13 @@
+.marker {
+  cursor: pointer;
+}
+
+.userDrawing{
+  cursor: pointer;
+}
+
+
+.active{
+  fill:tomato;
+  stroke:yellow;
+}
