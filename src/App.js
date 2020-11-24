@@ -7,6 +7,7 @@ import './App.css';
 function App () {
   return (
     <div>
+      {/* <p>wtf</p> */}
       <Header />
       <Main />
     </div>
